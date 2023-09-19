@@ -8,6 +8,7 @@
     --amarelo:#FECD2F;
     --roxo:#8a1aa0;
     --font-principal:"Poppins"
+    --fonte-secundaria:"josefin sans"
 }
 
 body{
@@ -15,5 +16,43 @@ body{
     font-family: var(--fonte-principal);
     font-size: 16px;
     font-weight: 400;
+    
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
 
