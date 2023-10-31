@@ -45,7 +45,8 @@
     text-decoration: none;
 
  }
-
+.container__titulo{
+    display: none;}
  .container__botao{
     display: none;
  }
@@ -53,6 +54,14 @@
  .container__botao:checked~.lista-menu{
     display: block;
  }
+
+ .opções{
+    display: none;
+}
+
+.opções{
+    display: none;
+}
 
 
  /*versao tlablet*/
@@ -99,6 +108,7 @@
     display: block;
     width: auto;
 }
+
 
 
 
